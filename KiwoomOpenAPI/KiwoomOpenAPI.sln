@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiwoomOpenAPI", "KiwoomOpenAPI.csproj", "{98673FE7-AA61-46A5-9F48-D472AF056093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAPIDotNet", "..\OpenAPIDotNet\OpenAPIDotNet.csproj", "{A0F8A4E6-9646-419D-8EF8-125704C54C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98673FE7-AA61-46A5-9F48-D472AF056093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98673FE7-AA61-46A5-9F48-D472AF056093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98673FE7-AA61-46A5-9F48-D472AF056093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98673FE7-AA61-46A5-9F48-D472AF056093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F8A4E6-9646-419D-8EF8-125704C54C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F8A4E6-9646-419D-8EF8-125704C54C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F8A4E6-9646-419D-8EF8-125704C54C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F8A4E6-9646-419D-8EF8-125704C54C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
